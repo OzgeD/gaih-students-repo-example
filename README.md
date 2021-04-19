@@ -4,7 +4,7 @@
 **Course Date:** 22.03.2021
 **Name:** Özge  
 **Surname:** Demirtaş  
-**Email:** ozgedmrts55@gmail.com  
+**Email:** yazilimcib@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
